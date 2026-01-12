@@ -1,6 +1,6 @@
-*This project has been created as part of the **42 curriculum** by **mleschev**.* <center>
+*This project has been created as part of the **42 curriculum** by  **mleschev**.* <center>
 
-### Description :
+## Description :
 
 The **NetPractice** project at 42 is designed to help students understand **how computer networks work**.  
 It allows students to **discover** and **practice** several fundamental networking concepts and protocols:
@@ -38,12 +38,12 @@ By respecting the constraints of each exercise, we must assign the correct **IP 
 <center>- Connecting a network to the internet</center>
 
 
-### Instructions :
+## Instructions :
 
 For NetPractice, a `.tgz` file is provided (also included at the root of this repository).  
 This archive contains all the exercises and the evaluation part of the project.
 
-To start:
+To run the training interface:
 
     1. Extract the `.tgz` file
     2. Open `index.html`
@@ -60,8 +60,24 @@ Levels 1 to 10, each one increasing in difficulty.
 A rush composed of **3 random exercises**, chosen between levels 6 and 10,  
 to be completed in **under 15 minutes**.
 
+<br>
 
-### Resources :
+<b>Exporting configurations</b>
+
+Once a level is successfully completed, the configuration must be **exported** using the NetPractice interface.  
+Each level generates a configuration file corresponding to its network setup.
+
+<br>
+
+<b>Submission requirements</b>
+
+For submission:
+- **10 exported configuration files** are required  
+- **One configuration file per level (levels 1 to 10)**  
+- All exported files must be placed **at the root of the Git repository**
+
+
+## Resources :
 
 <center><b>Networking concepts studied</b></center>
 
