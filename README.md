@@ -5,11 +5,9 @@
 The **NetPractice** project at 42 is designed to help students understand **how computer networks work**.  
 It allows students to **discover** and **practice** several fundamental networking concepts and protocols:
 
-- TCP/IP</center>
-
-- IP addressing</center>
-
-- How routers and switches work</center>
+- TCP/IP
+- IP addressing
+- How routers and switches work
 
 And more.
 
